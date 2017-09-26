@@ -1,0 +1,22 @@
+{
+  "name": "array-duplicates-properties",
+  "version": "1.0.4",
+  "description": "This package is intended to find duplicate objects in an array as well as finding objects that share certain properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "duplicate",
+    "duplicates",
+    "object",
+    "objects",
+    "shared",
+    "properties",
+    "find",
+    "nested"
+  ],
+  "author": "Adam Solomon and Trevor Manne",
+  "license": "MIT"
+}
